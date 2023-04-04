@@ -1,5 +1,3 @@
-package fr.lernejo;
-
 import java.util.function.BiFunction;
 
 public class Sample {
